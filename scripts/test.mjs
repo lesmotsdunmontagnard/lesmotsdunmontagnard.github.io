@@ -54,4 +54,9 @@ assert.equal(selectPoems(entries,new URLSearchParams('tri=recent'))[0].id,'recen
 assert.equal(selectPoems(entries,new URLSearchParams('tri=ancien'))[0].id,'ancien');
 assert.equal(selectPoems(entries,new URLSearchParams('theme=Nature'))[0].id,'sans-date');
 assert.equal(selectPoems(entries,new URLSearchParams('s=introuvable123')).length,0);
+const authorEntries=[...entries,{id:'autre',titre:'D',auteur:'Autre Auteur',texte:'',lieu:'Paris',date:'2026-09-01',themes:['Mémoire']},{id:'ensemble',titre:'E',auteur:'Autre Auteur et Auteur Exemple',texte:'',lieu:'Paris',date:'2026-09-01',themes:['Mémoire']}];
+assert.deepEqual(selectPoems(authorEntries,new URLSearchParams('auteur=Auteur+Exemple&lieu=Paris&mois=2026-09&theme=Mémoire')).map(e=>e.id),['recent','ensemble']);
+assert.deepEqual(selectPoems(authorEntries,new URLSearchParams('auteur=__non_precise__')).map(e=>e.id),['sans-date']);
+assert.equal(selectPoems(authorEntries,new URLSearchParams('auteur=Inconnu')).length,0);
+assert.ok(fs.readFileSync(path.join(root,'public/poemes.html'),'utf8').includes('<select name="auteur">'));
 console.log('Vérifié : signatures, dates ambiguës, filtres combinés, sujets et classement chronologique.');

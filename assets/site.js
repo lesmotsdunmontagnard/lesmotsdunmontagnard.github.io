@@ -1,4 +1,4 @@
-import {metadata,selectPoems} from './catalogue.js';
+import {metadata,selectPoems} from './catalogue.js?v=20260921-author';
 (() => {
   const menu=document.querySelector('.preview-menu'), nav=document.querySelector('#navigation');
   document.documentElement.classList.add('js');
@@ -15,11 +15,11 @@ import {metadata,selectPoems} from './catalogue.js';
   const entries=JSON.parse(data.textContent), params=new URLSearchParams(location.search);
   document.querySelector('[data-search-tools]').hidden=false;
   document.querySelector('#search').value=params.get('s')||'';
-  for(const name of ['theme','lieu','mois','tri']) {
+  for(const name of ['theme','auteur','lieu','mois','tri']) {
     const field=document.querySelector(`select[name="${name}"]`);
     if(field&&params.has(name))field.value=params.get(name);
   }
-  const keys=['s','theme','lieu','mois','tri','page'];
+  const keys=['s','theme','auteur','lieu','mois','tri','page'];
   if(!keys.some(k=>params.has(k)))return;
   const escape=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const theme=params.get('theme')||'';
