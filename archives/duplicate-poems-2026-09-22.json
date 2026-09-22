@@ -1,0 +1,70 @@
+{
+  "date": "2026-09-22",
+  "before": 409,
+  "after": 406,
+  "method": "Compared all full texts using normalized words and four-word sequences, then manually reviewed candidate differences. Titles alone were not used.",
+  "removed": [
+    {
+      "removed": {
+        "id": "discours-muet-d-un-regard-bavard-publication-partagee",
+        "titre": "Discours muet d’un regard bavard (publication partagée)",
+        "fichier": "textes/discours-muet-d-un-regard-bavard-publication-partagee.txt",
+        "themes": [
+          "Amour et désir"
+        ],
+        "image": "",
+        "descriptionImage": "",
+        "date": "2025-09-26",
+        "publie": true,
+        "auteur": "Djamel Metref",
+        "lieu": "At Yenni",
+        "creditImage": ""
+      },
+      "retained": "discours-muet-d-un-regard-bavard",
+      "reason": "Same complete poem with a shared-post introduction."
+    },
+    {
+      "removed": {
+        "id": "le-silence-ou-tu-demeures-publication-partagee",
+        "titre": "Le silence où tu demeures (publication partagée)",
+        "fichier": "textes/le-silence-ou-tu-demeures-publication-partagee.txt",
+        "themes": [
+          "Amour et désir"
+        ],
+        "image": "",
+        "descriptionImage": "",
+        "date": "2026-05-04",
+        "publie": true,
+        "auteur": "Djamel Metref",
+        "lieu": "Saint Ouen sur Seine",
+        "creditImage": ""
+      },
+      "retained": "le-silence-ou-tu-demeures",
+      "reason": "Same complete poem with a shared-post introduction."
+    },
+    {
+      "removed": {
+        "id": "vertiges-fb-145",
+        "titre": "''Vertiges ''",
+        "fichier": "textes/vertiges-fb-145.txt",
+        "themes": [
+          "Écriture et poésie"
+        ],
+        "image": "",
+        "descriptionImage": "",
+        "date": "2026-02-11",
+        "publie": true,
+        "auteur": "Nadya Benamar et Djamel Metref",
+        "lieu": "",
+        "creditImage": ""
+      },
+      "retained": "vertiges",
+      "reason": "Repost of the same collaborative text with minor presentation/wording differences; retain the earlier original. Original source files remain unchanged."
+    }
+  ],
+  "preservedVariants": [
+    "fragments-de-resistance / fragments-de-resistance-fb-231: substantial added stanzas and revised wording.",
+    "chercheurs-de-reves-a-la-memoire-des-enfants-des-ouacifs / harraga-resquilleurs: expanded and shorter versions with different dates.",
+    "sous-les-vertiges-a-nadyajda-benamar: standalone signed poem also included within the collaborative Vertiges publication."
+  ]
+}

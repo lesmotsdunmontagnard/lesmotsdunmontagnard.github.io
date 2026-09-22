@@ -346,21 +346,6 @@
     "creditImage": ""
   },
   {
-    "id": "discours-muet-d-un-regard-bavard-publication-partagee",
-    "titre": "Discours muet d’un regard bavard (publication partagée)",
-    "fichier": "textes/discours-muet-d-un-regard-bavard-publication-partagee.txt",
-    "themes": [
-      "Amour et désir"
-    ],
-    "image": "",
-    "descriptionImage": "",
-    "date": "2025-09-26",
-    "publie": true,
-    "auteur": "Djamel Metref",
-    "lieu": "At Yenni",
-    "creditImage": ""
-  },
-  {
     "id": "garde-mes-silences",
     "titre": "Garde mes silences",
     "fichier": "textes/garde-mes-silences.txt",
@@ -741,21 +726,6 @@
     "id": "le-silence-ou-tu-demeures",
     "titre": "Le silence où tu demeures",
     "fichier": "textes/le-silence-ou-tu-demeures.txt",
-    "themes": [
-      "Amour et désir"
-    ],
-    "image": "",
-    "descriptionImage": "",
-    "date": "2026-05-04",
-    "publie": true,
-    "auteur": "Djamel Metref",
-    "lieu": "Saint Ouen sur Seine",
-    "creditImage": ""
-  },
-  {
-    "id": "le-silence-ou-tu-demeures-publication-partagee",
-    "titre": "Le silence où tu demeures (publication partagée)",
-    "fichier": "textes/le-silence-ou-tu-demeures-publication-partagee.txt",
     "themes": [
       "Amour et désir"
     ],
@@ -1667,21 +1637,6 @@
     "publie": true,
     "auteur": "Djamel Metref",
     "lieu": "At Yenni",
-    "creditImage": ""
-  },
-  {
-    "id": "vertiges-fb-145",
-    "titre": "''Vertiges ''",
-    "fichier": "textes/vertiges-fb-145.txt",
-    "themes": [
-      "Écriture et poésie"
-    ],
-    "image": "",
-    "descriptionImage": "",
-    "date": "2026-02-11",
-    "publie": true,
-    "auteur": "Nadya Benamar et Djamel Metref",
-    "lieu": "",
     "creditImage": ""
   },
   {
