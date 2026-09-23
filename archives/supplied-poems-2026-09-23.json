@@ -1,0 +1,71 @@
+{
+  "importedOn": "2026-09-23",
+  "method": "User-supplied text files; Facebook unavailable. Dates are written in supplied files, except Amira: 22 September 2026 confirmed by user. User confirmed 15 April 2026 for princesse. These are not independently verified Facebook publication timestamps.",
+  "entries": [
+    {
+      "title": "Pour l’amour d’une princesse",
+      "id": "pour-l-amour-d-une-princesse",
+      "date": "2026-04-15",
+      "lieu": "Laghouat",
+      "themes": [
+        "Amour et désir"
+      ],
+      "supplied": "C:/Users/kenza/Desktop/Pour l’amour d’une princesse.txt",
+      "url": "https://www.facebook.com/djamel.metref/posts/pfbid02z1xWttMYU58SikBZdoBSxqS9GQYUkmim8K6Xmt9hgkfADUjUvip9kXgwTYiWkLSPl",
+      "file": "417 - Pour l’amour d’une princesse.txt",
+      "hash": "0e2dc09ef9e4d9dd891afbb25e4299c987c700ef27bd61bfe35bc4213d6fd8a0"
+    },
+    {
+      "title": "À ma fille aînée, Amira",
+      "id": "a-ma-fille-ainee-amira",
+      "date": "2026-09-22",
+      "lieu": "",
+      "themes": [
+        "Mémoire et transmission"
+      ],
+      "supplied": "C:/Users/kenza/Desktop/À ma fille aînée, Amira.txt",
+      "url": "https://www.facebook.com/djamel.metref/posts/pfbid02Dv3EHEbL2wSV49oC2wdHuoSdsrzGPU89eBkWCQgrMAwJZZ1BhY9nL5rcZaKDSuB6l",
+      "file": "418 - À ma fille aînée, Amira.txt",
+      "hash": "65af6f8ef3eed4fbe7ebe0249a19d2d102041548b8ad477c36ee261784622395"
+    },
+    {
+      "title": "Lève-toi !",
+      "id": "leve-toi-2026-09-22",
+      "date": "2026-09-22",
+      "lieu": "",
+      "themes": [
+        "Résilience et espoir"
+      ],
+      "supplied": "C:/Users/kenza/Desktop/Lève-toi !.txt",
+      "url": "https://www.facebook.com/djamel.metref/posts/pfbid02YffPdbzqfjccVKGTaQEhtu5d2qdvvLufGXZQ85RmKVSYiKc2wtLoVN1xWP4455ZHl",
+      "file": "419 - Lève-toi !.txt",
+      "hash": "c6bbddd15e9a59d858859d1202889d7b197d62af9b8034143604524cfe884cda"
+    },
+    {
+      "title": "La beauté de l’inutile",
+      "id": "la-beaute-de-l-inutile",
+      "date": "2026-09-22",
+      "lieu": "At Yenni",
+      "themes": [
+        "Écriture et poésie"
+      ],
+      "supplied": "C:/Users/kenza/Desktop/La beauté de l’inutile.txt",
+      "url": "https://www.facebook.com/djamel.metref/posts/pfbid0USNqtQ869EDjT2AdTP3ZaWUAe5g6XmzYyqfTA3PMAikbUkN1PerLti13RtRj3y4ol",
+      "file": "420 - La beauté de l’inutile.txt",
+      "hash": "06fb88f1870689a06b2a9930fbab5bc6fa1daac3d94dcc114e91af872ab4ffbf"
+    },
+    {
+      "title": "Victoire silencieuse",
+      "id": "victoire-silencieuse",
+      "date": "2026-09-21",
+      "lieu": "At Yenni",
+      "themes": [
+        "Résilience et espoir"
+      ],
+      "supplied": "C:/Users/kenza/Desktop/Victoire silencieuse.txt",
+      "url": "https://www.facebook.com/djamel.metref/posts/pfbid0ZKZPVv9hQRcTPSB8v14dqEfRivvhZ1yUwgdpaK5Wk35Wim2dCKVZDT95Lh1WoJMAl",
+      "file": "421 - Victoire silencieuse.txt",
+      "hash": "6439107038e8326cb45e8f5eb0320f53fd20a648212af7ef10837318d6d22d8b"
+    }
+  ]
+}

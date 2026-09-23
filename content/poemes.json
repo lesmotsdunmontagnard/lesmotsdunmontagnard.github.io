@@ -6130,5 +6130,85 @@
     "date": "2026-08-14",
     "publie": true,
     "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "a-ma-fille-ainee-amira",
+    "titre": "À ma fille aînée, Amira",
+    "fichier": "textes/a-ma-fille-ainee-amira.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02Dv3EHEbL2wSV49oC2wdHuoSdsrzGPU89eBkWCQgrMAwJZZ1BhY9nL5rcZaKDSuB6l"
+  },
+  {
+    "id": "leve-toi-2026-09-22",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-2026-09-22.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02YffPdbzqfjccVKGTaQEhtu5d2qdvvLufGXZQ85RmKVSYiKc2wtLoVN1xWP4455ZHl"
+  },
+  {
+    "id": "la-beaute-de-l-inutile",
+    "titre": "La beauté de l’inutile",
+    "fichier": "textes/la-beaute-de-l-inutile.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0USNqtQ869EDjT2AdTP3ZaWUAe5g6XmzYyqfTA3PMAikbUkN1PerLti13RtRj3y4ol"
+  },
+  {
+    "id": "victoire-silencieuse",
+    "titre": "Victoire silencieuse",
+    "fichier": "textes/victoire-silencieuse.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0ZKZPVv9hQRcTPSB8v14dqEfRivvhZ1yUwgdpaK5Wk35Wim2dCKVZDT95Lh1WoJMAl"
+  },
+  {
+    "id": "pour-l-amour-d-une-princesse",
+    "titre": "Pour l’amour d’une princesse",
+    "fichier": "textes/pour-l-amour-d-une-princesse.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Laghouat",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02z1xWttMYU58SikBZdoBSxqS9GQYUkmim8K6Xmt9hgkfADUjUvip9kXgwTYiWkLSPl"
   }
 ]
