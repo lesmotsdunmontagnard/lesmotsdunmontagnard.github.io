@@ -2031,13 +2031,13 @@
   },
   {
     "id": "a-nadyajda-benamar",
-    "titre": "À Nadyajda Benamar",
+    "titre": "À Nadya Benamar",
     "fichier": "textes/a-nadyajda-benamar.txt",
     "themes": [
       "Écriture et poésie"
     ],
     "image": "assets/poemes/facebook/a-nadyajda-benamar.jpg",
-    "descriptionImage": "Illustration accompagnant « À Nadyajda Benamar » dans sa publication Facebook.",
+    "descriptionImage": "Illustration accompagnant « À Nadya Benamar » dans sa publication Facebook.",
     "date": "2025-12-22",
     "publie": true,
     "auteur": "Djamel Metref",
@@ -2481,7 +2481,7 @@
   },
   {
     "id": "sous-les-vertiges-a-nadyajda-benamar",
-    "titre": "Sous les vertiges (à Nadyajda Benamar)",
+    "titre": "Sous les vertiges (à Nadya Benamar)",
     "fichier": "textes/sous-les-vertiges-a-nadyajda-benamar.txt",
     "themes": [
       "Écriture et poésie"
