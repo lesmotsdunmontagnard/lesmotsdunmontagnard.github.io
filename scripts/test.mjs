@@ -25,6 +25,9 @@ for(const demo of [false,true]){
   for(const e of loadEntries('poemes.json')) {
    const html=fs.readFileSync(path.join(output,'poemes',e.id+'.html'),'utf8');
    assert.ok(html.includes(poemText(e.texte)),'Le poème généré doit contenir son texte complet.');
+   for(const asset of [e.image,...(e.images||[]).map(photo=>photo.image)].filter(Boolean)){
+    assert.ok(html.includes(`src="../${escapeHtml(asset)}"`),`Illustration absente de la page : ${e.id} → ${asset}`);
+   }
   }
   assert.ok(!fs.readFileSync(path.join(output,'index.html'),'utf8').includes('Aperçu local'));
   assert.ok(fs.readFileSync(path.join(output,'index.html'),'utf8').includes('aria-label="Revenir en haut"'),'Le bouton de retour en haut doit être présent sur le site.');
