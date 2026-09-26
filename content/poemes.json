@@ -637,6 +637,7 @@
     "titre": "Le lac paisible",
     "fichier": "textes/le-lac-paisible.txt",
     "themes": [
+      "Carnets de voyages",
       "Nature et écologie"
     ],
     "image": "assets/poemes/facebook/le-lac-paisible.jpg",
@@ -712,6 +713,7 @@
     "titre": "La source bleue",
     "fichier": "textes/la-source-bleue.txt",
     "themes": [
+      "Carnets de voyages",
       "Nature et écologie"
     ],
     "image": "assets/poemes/facebook/la-source-bleue.jpg",
@@ -1012,6 +1014,7 @@
     "titre": "Les murmures de Tawrirt",
     "fichier": "textes/les-murmures-de-tawrirt.txt",
     "themes": [
+      "Carnets de voyages",
       "Mémoire et transmission"
     ],
     "image": "assets/poemes/facebook/les-murmures-de-tawrirt.jpg",
@@ -1042,6 +1045,7 @@
     "titre": "Les yeux du désert",
     "fichier": "textes/les-yeux-du-desert.txt",
     "themes": [
+      "Carnets de voyages",
       "Nature et écologie"
     ],
     "image": "assets/poemes/facebook/les-yeux-du-desert.jpg",
@@ -1282,6 +1286,7 @@
     "titre": "Promenade des droits de l'homme",
     "fichier": "textes/promenade-des-droits-de-l-homme.txt",
     "themes": [
+      "Carnets de voyages",
       "Liberté et justice"
     ],
     "image": "assets/poemes/facebook/promenade-des-droits-de-l-homme.jpg",
@@ -1357,6 +1362,7 @@
     "titre": "La citadelle",
     "fichier": "textes/la-citadelle.txt",
     "themes": [
+      "Carnets de voyages",
       "Résilience et espoir"
     ],
     "image": "assets/poemes/facebook/la-citadelle.jpg",
@@ -1372,6 +1378,7 @@
     "titre": "L'arbre hurleur",
     "fichier": "textes/l-arbre-hurleur.txt",
     "themes": [
+      "Carnets de voyages",
       "Nature et écologie"
     ],
     "image": "assets/poemes/facebook/l-arbre-hurleur.jpg",
@@ -2559,6 +2566,7 @@
     "titre": "Fort Tizegrarine",
     "fichier": "textes/fort-tizegrarine.txt",
     "themes": [
+      "Carnets de voyages",
       "Histoire et paix"
     ],
     "image": "assets/poemes/facebook/fort-tizegrarine.jpg",
@@ -2664,6 +2672,7 @@
     "titre": "Arc en ciel sur Laghouat",
     "fichier": "textes/arc-en-ciel-sur-laghouat.txt",
     "themes": [
+      "Carnets de voyages",
       "Écriture et poésie"
     ],
     "image": "assets/poemes/facebook/arc-en-ciel-sur-laghouat.jpg",
@@ -2754,6 +2763,7 @@
     "titre": "Le joueur de Rbab",
     "fichier": "textes/le-joueur-de-rbab.txt",
     "themes": [
+      "Carnets de voyages",
       "Mémoire et transmission"
     ],
     "image": "assets/poemes/facebook/le-joueur-de-rbab.jpg",
@@ -2904,6 +2914,7 @@
     "titre": "Village de Tadjmout",
     "fichier": "textes/village-de-tadjmout.txt",
     "themes": [
+      "Carnets de voyages",
       "Nature et écologie"
     ],
     "image": "assets/poemes/facebook/village-de-tadjmout.jpg",
@@ -6200,6 +6211,7 @@
     "titre": "Pour l’amour d’une princesse",
     "fichier": "textes/pour-l-amour-d-une-princesse.txt",
     "themes": [
+      "Carnets de voyages",
       "Amour et désir"
     ],
     "image": "",
@@ -6210,5 +6222,20 @@
     "lieu": "Laghouat",
     "creditImage": "",
     "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02z1xWttMYU58SikBZdoBSxqS9GQYUkmim8K6Xmt9hgkfADUjUvip9kXgwTYiWkLSPl"
+  },
+  {
+    "id": "carnet-d-un-kabyle-sous-le-ciel-indien",
+    "titre": "Carnet d’un Kabyle sous le ciel indien",
+    "fichier": "textes/carnet-d-un-kabyle-sous-le-ciel-indien.txt",
+    "themes": [
+      "Carnets de voyages"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Noida",
+    "creditImage": ""
   }
 ]
