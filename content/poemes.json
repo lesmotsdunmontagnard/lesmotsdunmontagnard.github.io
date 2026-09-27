@@ -6237,5 +6237,86 @@
     "auteur": "Djamel Metref",
     "lieu": "Noida",
     "creditImage": ""
+  },
+  {
+    "id": "leve-toi-liberte-2026-09-26",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-liberte-2026-09-26.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid04aaWyoiPouxwvurBV5uZnGoSoWakHhkTwscTtAna579bNMmFLqNQENMzFBEmFojil"
+  },
+  {
+    "id": "leve-toi-univers-2026-09-26",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-univers-2026-09-26.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0ELqGpe1qQRzqqyQnWcNuJmoNz3XmY4mRqL3BvgsbcU9QUXF3qXAyKudNMAKpGggdl"
+  },
+  {
+    "id": "le-poete-s-est-cache-pour-mourir",
+    "titre": "Le poète s’est caché pour mourir",
+    "fichier": "textes/le-poete-s-est-cache-pour-mourir.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02XS8bdoCrwmR1ectUAUJrUvmA5397K3eGA2S1ytxvo6odXqWZHZxYgZr8gwv1G3jbl"
+  },
+  {
+    "id": "leve-toi-cages-2026-09-23",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-cages-2026-09-23.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0iDMsfHxmHuXmd8shcGmjMJPD9ZnbZVxnCZ6L7KSH3mXzrHcDwR7N6Vt6Shg4WfFpl"
+  },
+  {
+    "id": "leve-toi-mensonges-2026-09-21",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-mensonges-2026-09-21.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0SN942fzq3cUVszhHDKKJ9FXx7BPEdkEZDaxPBZ9CLrurhiFPPhCsK7Hw7PVzC99Wl"
   }
 ]
