@@ -6335,5 +6335,39 @@
     "lieu": "At Yenni",
     "creditImage": "",
     "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0Ysu5TQYZnxvqgom1mSB3D6iAETyNf11fjUew4BtAmrTbozf941ZPrw11HMqBajtSl"
+  },
+  {
+    "id": "moksha",
+    "titre": "MOKSHA",
+    "fichier": "textes/moksha.txt",
+    "themes": [
+      "Temps et existence",
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-10-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid03H7mWQfqBTtKrSYo2S2zDDPTie4zEExpJ9V4A9k9huMZxUDsS2V1Pq5fsRpZM989l"
+  },
+  {
+    "id": "les-jours-passent-et-tout-est-dit",
+    "titre": "Les jours passent et tout est dit",
+    "fichier": "textes/les-jours-passent-et-tout-est-dit.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0TXXRGN9UizkryGPSEDwpBupyovoKDVtGRh8TyNmLEo7DChGUoNToLzEpLajRe7GPl"
   }
 ]
