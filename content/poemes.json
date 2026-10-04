@@ -6369,5 +6369,73 @@
     "lieu": "At Yenni",
     "creditImage": "",
     "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0TXXRGN9UizkryGPSEDwpBupyovoKDVtGRh8TyNmLEo7DChGUoNToLzEpLajRe7GPl"
+  },
+  {
+    "id": "l-enfant-du-silence",
+    "titre": "L‘enfant du silence",
+    "fichier": "textes/l-enfant-du-silence.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-10-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02QpbBaNyNuZTSCS3i1SpvXdM6c7hRgXJukBTAdpgedjc3mBaxpEU7ozEy1P6cWAkRl"
+  },
+  {
+    "id": "tislit-n-unzar-la-fiancee-d-anzar",
+    "titre": "Tislit n Unzar — La fiancée d’Anzar",
+    "fichier": "textes/tislit-n-unzar-la-fiancee-d-anzar.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-10-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid06m3jBcTKR5iDZncjwHdYU2sHrHGMd7CFigwfEvtRAAH45h1X3wFgy4QDHgrTNguwl"
+  },
+  {
+    "id": "insomnie-mon-amie",
+    "titre": "Insomnie, mon amie",
+    "fichier": "textes/insomnie-mon-amie.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-10-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0c57ysJmqWCmAxQ5My8z98ZKsFWzZRkwRStT9AbJ3zXAzCV3f64YFh4bdHcdqeSAvl"
+  },
+  {
+    "id": "le-coeur-brise-de-la-place",
+    "titre": "Le cœur brisé de la place",
+    "fichier": "textes/le-coeur-brise-de-la-place.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-10-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0ASLPoRTAX9xLBePZL3dYGKrHFXULEXmWW75vDvrPUxQ6b3Ejn9MMzkVki77nMCDdl"
   }
 ]
