@@ -1,6 +1,6 @@
 # Facebook → Les mots d’un montagnard
 
-Préparé pour la Page `61595168813342`. La connexion est désactivée tant que l’autorisation Meta n’est pas terminée. Aucun mot de passe ni jeton ne doit être enregistré dans le dépôt.
+Préparé pour la Page Facebook (profil `61595168813342`, ID API validé `1314805048387857`). La connexion est désactivée tant que l’autorisation Meta n’est pas terminée. Aucun mot de passe ni jeton ne doit être enregistré dans le dépôt.
 
 ## Publier un nouveau texte
 
@@ -14,7 +14,7 @@ La date écrite dans le poème reste distincte de son horodatage Facebook. Une d
 
 ## Terminer la connexion
 
-1. Terminer l’inscription Meta for Developers et créer une application autorisée à lire les publications de cette Page. Vérifier les permissions et les conditions d’accès pour cette application, notamment `pages_read_engagement`. La documentation officielle [Publications](https://developers.facebook.com/documentation/pages-api/posts), consultée le 2 octobre 2026, décrit la lecture par `/page_id/feed` et utilise `v26.0` dans ses exemples. Le connecteur attend un jeton de Page, pas un mot de passe Facebook.
+1. Terminer l’inscription Meta for Developers et créer une application autorisée à lire les publications de cette Page. Vérifier les permissions et les conditions d’accès pour cette application, notamment `pages_read_engagement`. La documentation officielle [Publications](https://developers.facebook.com/documentation/pages-api/posts), consultée le 2 octobre 2026, décrit la lecture des publications. Le test réel du 4 octobre 2026 valide `/page_id/posts` en `v26.0`, avec un jeton de Page et les permissions `pages_show_list` / `pages_read_engagement`; cet endpoint limite la lecture aux publications de la Page. Le connecteur attend un jeton de Page, pas un mot de passe Facebook.
 2. Enregistrer le jeton exclusivement dans le secret GitHub Actions `FACEBOOK_PAGE_ACCESS_TOKEN` du dépôt original `lesmotsdunmontagnard/lesmotsdunmontagnard.github.io`. Enregistrer la version validée (forme `vNN.0`) dans la variable `META_GRAPH_VERSION`. Ne pas coller le jeton dans une conversation, un fichier source ou un rapport.
 3. Avec l’API autorisée, vérifier un appel de lecture et l’appartenance du jeton à la Page. Tester les données réelles en copie temporaire avant activation. Les tests hors ligne ne prouvent pas que Meta accorde l’accès.
 4. Passer `enabled` à `true` dans `content/facebook-sync.json`, publier cette seule modification, puis lancer manuellement **Facebook vers le recueil** et vérifier son résultat. Confirmer l’absence de doublons et la publication réelle d’un nouveau texte connu.

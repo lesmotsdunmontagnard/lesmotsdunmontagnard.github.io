@@ -31,8 +31,9 @@ test('poem text, written date and source identity survive import; retries do not
 test('earlier export wrappers are duplicates; same title with different text is retained',async t=>{
   const root=await fixture(t);
   const exported='Ancien titre\n\nAncien titre\n\nUn autre texte.\n\nLire sur le site : https://lesmotsdunmontagnard.github.io/poemes/existing.html\nIllustration : Crédit';
-  const result=await importPosts({root,config,posts:[post('102',exported),post('103','Ancien titre\n\nUn texte nouveau.\n#poeme')]});
-  assert.equal(result.duplicates,1);assert.equal(result.imported,1);
+  const withoutLink=exported.replace('https://lesmotsdunmontagnard.github.io/poemes/existing.html','');
+  const result=await importPosts({root,config,posts:[post('102',exported),post('202',withoutLink),post('103','Ancien titre\n\nUn texte nouveau.\n#poeme')]});
+  assert.equal(result.duplicates,2);assert.equal(result.imported,1);
   assert.equal((await read(root,'poemes.json')).length,2);
 });
 test('unknown posts, conflicting markers and edits wait for review; comments/foreign posts are skipped',async t=>{
@@ -62,7 +63,7 @@ test('complete pagination uses header authentication, and rejects missing cursor
   let calls=0;
   const options={pageId:config.pageId,version:'v99.0',token:'SECRET',since:'2026-10-02T00:00:00Z'};
   const posts=await fetchPagePosts({...options,fetchImpl:async(url,init)=>{
-    calls++;assert.ok(url.pathname.endsWith('/feed'));assert.ok(!url.toString().includes('SECRET'));assert.equal(init.headers.Authorization,'Bearer SECRET');
+    calls++;assert.ok(url.pathname.endsWith('/posts'));assert.ok(!url.toString().includes('SECRET'));assert.equal(init.headers.Authorization,'Bearer SECRET');
     return {ok:true,json:async()=>calls===1?{data:[post('110',poem)],paging:{next:'ignored',cursors:{after:'cursor'}}}:{data:[post('111',poem)]}};
   }});assert.equal(posts.length,2);assert.equal(calls,2);
   await assert.rejects(fetchPagePosts({...options,fetchImpl:async()=>({ok:true,json:async()=>({data:[],paging:{next:'ignored'}})})}),/Incomplete/);

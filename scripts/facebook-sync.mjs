@@ -15,7 +15,7 @@ function facebookUrl(url){try {const u=new URL(url);return u.protocol==='https:'
 
 // Compare content, not titles. Our earlier Facebook export adds a title and footer.
 export function contentCandidates(message){
-  const clean=message.replace(/\n+Lire sur le site\s*:\s*https:\/\/lesmotsdunmontagnard\.github\.io\/poemes\/[^\s]+[\s\S]*$/u,'');
+  const clean=message.replace(/\n+Lire sur le site\s*:(?:\s*https:\/\/lesmotsdunmontagnard\.github\.io\/poemes\/[^\s]+)?(?:\s*\nIllustration\s*:[\s\S]*)?\s*$/u,'');
   const first=clean.indexOf('\n');
   return [normalize(message),normalize(clean),...(first<0?[]:[normalize(clean.slice(first+1))])];
 }
@@ -59,7 +59,7 @@ export async function fetchPagePosts({pageId,version,token,since,fetchImpl=fetch
   const fields='id,message,created_time,permalink_url,from{id},attachments{type,description,media,subattachments{type,description,media}}';
   let after;const result=[];const seen=new Set();
   for(let page=0;page<100;page++){
-    const url=new URL(`https://graph.facebook.com/${version}/${pageId}/feed`);
+    const url=new URL(`https://graph.facebook.com/${version}/${pageId}/posts`);
     url.searchParams.set('fields',fields);url.searchParams.set('limit','100');url.searchParams.set('since',String(Math.floor(new Date(since).getTime()/1000)));if(after)url.searchParams.set('after',after);
     const res=await fetchImpl(url,{headers:{Authorization:`Bearer ${token}`},signal:AbortSignal.timeout(30000)});
     if(!res.ok)throw Error(`Meta Page request failed (HTTP ${res.status}); check authorization. No checkpoint advanced.`);
