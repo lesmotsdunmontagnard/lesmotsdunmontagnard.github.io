@@ -630,7 +630,15 @@
       "hash": "e82815a7c086fbfe8d4b1c0ffd2844c3b38a1f0ea4079aa7143d9b359443bab8",
       "status": "duplicate",
       "source": "https://www.facebook.com/122095870971505627/posts/122094552831505627"
+    },
+    "1314805048387857_122096094519505627": {
+      "hash": "0563f4173ffcc50641ecdfd421badf12e539c62166afb999d8dba25e3698416c",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122096094519505627",
+      "entryId": "facebook-page-1314805048387857-122096094519505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-10-04T16:16:26+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-10-04T08:16:01.821Z"
+  "lastSuccessfulCheck": "2026-10-05T05:44:43.280Z"
 }
