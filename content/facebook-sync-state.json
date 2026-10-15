@@ -649,10 +649,10 @@
     },
     "1314805048387857_122104236471505627": {
       "hash": "286132e6c3779e99afdbcb494cda23b88afa9a5823cfc9390c90803cdbb509cf",
-      "status": "review",
-      "reason": "Edited existing post; preserve website text until reviewed",
+      "status": "imported",
       "source": "https://www.facebook.com/122095870971505627/posts/122104236471505627",
-      "text": "#poème\nCe qui demeure\n\nQuand tout se brise, \nil reste une lumière \nsans nom\nqui n’éclaire pas les yeux\nmais la patience.\n\nNous avons cru que le temps\nétait un fleuve,\nalors qu’il est un vent :\nil ne prend rien,\nil déplace.\n\nJ’ai vu l’amour marcher pieds nus\nsur des ruines encore chaudes,\nj’ai vu le chagrin fleurir\ncomme un arbre têtu\ndans la gorge des pierres.\n\nNe me demande pas\nce que la vie promet,\nelle ne promet rien —\nelle offre, \nparfois,\net c’est déjà immense.\n\nChaque cœur est une maison\nouverte à la tempête,\nmais certaines fenêtres\napprennent à chanter\nau lieu de trembler.\n\nSi un jour tu te perds,\nsouviens-toi :\nce qui fait mal n’est pas l’ombre,\nc’est d’oublier\nque tu portes le feu.\n\nEt quand tout se tait enfin,\nquand même ton nom se fatigue,\nil restera cela :\navoir aimé assez fort\npour laisser une trace\ndans le silence.\n\nDjamel Metref \nAt Yenni le 14 Octobre 2026",
+      "entryId": "facebook-page-1314805048387857-122104236471505627",
+      "kind": "poem",
       "facebookPublishedAt": "2026-10-14T19:24:21+0000"
     }
   },
