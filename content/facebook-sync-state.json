@@ -664,13 +664,21 @@
       "facebookPublishedAt": "2026-10-15T13:32:50+0000"
     },
     "1314805048387857_122106015441505627": {
-      "hash": "2828de46106acefabd667ffb3e98871528256e961fc26e1559b830a79ac75f84",
-      "status": "imported",
+      "hash": "9262d29a1063ba0c74116b8f1a36431d40c8a2311ac4c0fa765ed00b89188229",
+      "status": "review",
+      "reason": "Edited existing post; preserve website text until reviewed",
       "source": "https://www.facebook.com/122095870971505627/posts/122106015441505627",
-      "entryId": "facebook-page-1314805048387857-122106015441505627",
-      "kind": "poem",
+      "text": "#poème\nLève-toi !\n\nNous sommes la vague, \nnous sommes le vent,\nLa voix qui grandit \ndans le cœur des vivants.\n\nUne voix seule \npeut trembler dans la nuit,\nMais mille voix ensemble \ndeviennent un cri.\n\nDjamel Metref \nAt Yenni le 16 Octobre 2026",
       "facebookPublishedAt": "2026-10-16T16:00:45+0000"
+    },
+    "1314805048387857_122106144651505627": {
+      "hash": "bebe642c7d7604959953d6da48e21849245f32440640c61d787379da81d0a96a",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122106144651505627",
+      "entryId": "facebook-page-1314805048387857-122106144651505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-10-16T18:13:53+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-10-16T17:47:39.464Z"
+  "lastSuccessfulCheck": "2026-10-16T18:55:54.339Z"
 }
