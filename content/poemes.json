@@ -6501,5 +6501,21 @@
     "image": "",
     "descriptionImage": "",
     "creditImage": ""
+  },
+  {
+    "id": "facebook-page-1314805048387857-122106015441505627",
+    "titre": "Lève-toi !",
+    "fichier": "textes/facebook-page-1314805048387857-122106015441505627.txt",
+    "date": "2026-10-16",
+    "publie": true,
+    "sourceFacebook": "https://www.facebook.com/122095870971505627/posts/122106015441505627",
+    "facebookPostId": "1314805048387857_122106015441505627",
+    "facebookPublishedAt": "2026-10-16T16:00:45+0000",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "themes": [],
+    "image": "assets/poemes/facebook-page/facebook-page-1314805048387857-122106015441505627-1.jpg",
+    "descriptionImage": "#Poème\nLève-toi !\n\nNous sommes la vague, \nnous sommes le vent,\nLa voix qui grandit \ndans le cœur des vivants.\n\nUne voix seule \npeut trembler dans la nuit,\nMais mille voix ensemble \ndeviennent un cri.\n\nDjamel Metref \nAt Yenni le 16 Octobre 2026",
+    "creditImage": ""
   }
 ]
