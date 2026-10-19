@@ -710,7 +710,15 @@
       "entryId": "facebook-page-1314805048387857-122107837281505627",
       "kind": "poem",
       "facebookPublishedAt": "2026-10-18T14:50:46+0000"
+    },
+    "1314805048387857_122108664543505627": {
+      "hash": "2adc07555bab7a73a29533aca71d708576e378de6464c993f2ac9ddd0413e2f9",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122108664543505627",
+      "entryId": "facebook-page-1314805048387857-122108664543505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-10-19T14:46:31+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-10-19T10:52:15.759Z"
+  "lastSuccessfulCheck": "2026-10-19T17:32:28.841Z"
 }
