@@ -728,13 +728,21 @@
       "facebookPublishedAt": "2026-10-20T04:33:35+0000"
     },
     "1314805048387857_122110037829505627": {
-      "hash": "533720fe63acda0099204ceda1ad11ef86a2406881bf60fdd3c322c5e8dadcb5",
-      "status": "imported",
+      "hash": "84a1c241fff1d5726d47e638fa06d8853d0aa06785b190c150076cd084099deb",
+      "status": "review",
+      "reason": "Edited existing post; preserve website text until reviewed",
       "source": "https://www.facebook.com/122095870971505627/posts/122110037829505627",
-      "entryId": "facebook-page-1314805048387857-122110037829505627",
-      "kind": "poem",
+      "text": "#poème\nL’aube recommence\n\nChaque matin revient \nsans faire de bruit, \nPosant sur nos blessures \nun peu de lumière ; \n\nLa nuit emporte \nau fond de son puits \nLes mots trop lourds, \nles regrets, \nles prières.\n\nUn oiseau trace \nun chemin dans le ciel, \nUn arbre offre \nson ombre à l’inconnu, \n\nEt le soleil, \npatient et fidèle, \nRend à nos rêves \nce qu’ils ont perdu.\n\nNous marchons tous \navec nos cicatrices, \nDes soleils éteints \nau creux de nos mains ; \n\nMais il suffit parfois \nd’un geste, \nd’un sourire, \nPour rendre à l’espérance \nun visage humain.\n\nLe monde est dur, \nses frontières sont des murs, \nSes puissants ont parfois \noublié les hommes ; \n\nPourtant, \nsous les décombres \ndes jours les plus obscurs, \nUne fleur se relève \net réclame son royaume.\n\nAlors, \nne méprisons \nni la graine \nni l’instant, \n\nNi la main \nqui se tend \ndans le froid \nde décembre ; \n\nLes plus grandes victoires \nprennent leur temps, \nComme un feu qui renaît \nsous la cendre.\n\nCar vivre, \nce n’est pas \nignorer la douleur, \nNi prétendre \nque l’ombre n’existe pas ; \n\nC’est porter dans sa poitrine \nun peu de chaleur \nEt garder une lampe \nau milieu des combats.\n\nL’aube ne promet pas \nque tout sera facile ; \nElle nous dit seulement : \nrecommence encore. \n\nEt dans ce monde \nimmense, \nincertain, \nfragile, \n\nAimer reste une façon \nde vaincre la mort.\n\nDjamel Metref \nAt Yenni le 22 Octobre 2026",
       "facebookPublishedAt": "2026-10-22T03:24:09+0000"
+    },
+    "1314805048387857_122110534311505627": {
+      "hash": "40215972857dc46aec653a71632bd2ec98540330544983b0388186ffedd34918",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122110534311505627",
+      "entryId": "facebook-page-1314805048387857-122110534311505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-10-23T03:47:24+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-10-23T01:35:47.735Z"
+  "lastSuccessfulCheck": "2026-10-23T07:38:54.681Z"
 }
