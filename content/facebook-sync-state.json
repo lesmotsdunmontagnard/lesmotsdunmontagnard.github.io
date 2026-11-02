@@ -744,13 +744,21 @@
       "facebookPublishedAt": "2026-10-23T03:47:24+0000"
     },
     "1314805048387857_122111435727505627": {
-      "hash": "54c93bce1c8ca3bb386f58bbb7e298e4687119079c37bb944a31cde765662e43",
-      "status": "imported",
+      "hash": "af681d422a6e594f2896c85bea1e307c316e8581c8fad5c8b76a5dffcf6f025e",
+      "status": "review",
+      "reason": "Edited existing post; preserve website text until reviewed",
       "source": "https://www.facebook.com/122095870971505627/posts/122111435727505627",
-      "entryId": "facebook-page-1314805048387857-122111435727505627",
-      "kind": "poem",
+      "text": "#poème\nL’arbre qui tient debout\n\nIl est des jours \noù le ciel se retire, \nOù même le vent \noublie de chanter, \n\nOù l’on porte en soi \ndes mots qui chavirent \nEt des rêves trop lourds \npour être racontés.\n\nPourtant, \nau bord des routes \nsans mémoire, \nUn arbre s’obstine \nà garder le printemps. \n\nIl plonge ses racines \nau cœur du noir \nEt tend vers la lumière \nses bras patients.\n\nIl a connu la morsure \ndes hivers, \nLes oiseaux partis, \nles branches brisées, \n\nLes longues nuits \nsans lune \net sans repères, \nLes pluies qui semblaient \nne jamais cesser.\n\nMais jamais il n’a \nmaudit la terre, \nNi renié le ciel \nqui l’avait oublié. \n\nIl sait qu’au fond \ndes blessures amères \nDort une sève \nque rien ne peut tuer.\n\nAlors, \nquand le jour \nhésite à renaître, \n\nQuand l’espoir \nse fait cendre \nentre nos mains, \n\nSouviens-toi \nde cet arbre \nà la fenêtre : \nCe qui résiste \nprépare le matin.\n\nEt si demain \nle monde perd sa voix, \nSi la haine étouffe \njusqu’aux prières, \n\nPlante un peu de bonté \nau fond de toi : \nUn seul arbre \npeut reverdir la terre.\n\nDjamel Metref \nAt Yenni le 24 Octobre 2026",
       "facebookPublishedAt": "2026-10-24T19:50:28+0000"
+    },
+    "1314805048387857_122115437811505627": {
+      "hash": "e5bc39feddf966eeed0e37f3d4f10b75876833bc12189a89d36a78ab7c57e12c",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122115437811505627",
+      "entryId": "facebook-page-1314805048387857-122115437811505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-11-02T04:43:29+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-11-01T23:39:54.913Z"
+  "lastSuccessfulCheck": "2026-11-02T06:19:50.342Z"
 }
