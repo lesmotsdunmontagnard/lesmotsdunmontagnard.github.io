@@ -766,7 +766,15 @@
       "entryId": "facebook-page-1314805048387857-122116090029505627",
       "kind": "poem",
       "facebookPublishedAt": "2026-11-03T21:42:53+0000"
+    },
+    "1314805048387857_122116875513505627": {
+      "hash": "11b873998dd6b38d5e74bd699b3709d732c9b5ba2ff4e97c79e02f3bf9d51c70",
+      "status": "review",
+      "reason": "Unclassified post: use a standalone #poeme or #actualite marker",
+      "source": "https://www.facebook.com/122095870971505627/posts/122116875513505627",
+      "text": "Lève-toi !\n\nNe demande pas \nqui viendra demain :\nCommence aujourd’hui, \ncommence par tes mains.\n\nUn monde nouveau \nne tombe pas du ciel,\nIl naît de nos actes, \nsimples \net essentiels.",
+      "facebookPublishedAt": "2026-11-05T22:50:01+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-11-05T22:04:42.354Z"
+  "lastSuccessfulCheck": "2026-11-06T02:31:10.178Z"
 }
