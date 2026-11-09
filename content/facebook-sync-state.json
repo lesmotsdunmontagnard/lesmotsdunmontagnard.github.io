@@ -806,7 +806,23 @@
       "entryId": "facebook-page-1314805048387857-122117957283505627",
       "kind": "poem",
       "facebookPublishedAt": "2026-11-08T20:44:04+0000"
+    },
+    "1314805048387857_122118045543505627": {
+      "hash": "342ba824972d0ba42261b4837791a5557b77817186d6f956554b9822fcbe6b02",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122118045543505627",
+      "entryId": "facebook-page-1314805048387857-122118045543505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-11-09T04:51:03+0000"
+    },
+    "1314805048387857_122118057489505627": {
+      "hash": "1545ba36fef5b5fe01a7bd10e3d0483bbe2e82154ca7036ad3ea100a60435c1c",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122118057489505627",
+      "entryId": "facebook-page-1314805048387857-122118057489505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-11-09T05:20:07+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-11-09T00:58:51.431Z"
+  "lastSuccessfulCheck": "2026-11-09T08:04:00.695Z"
 }
