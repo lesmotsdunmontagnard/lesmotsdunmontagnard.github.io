@@ -822,7 +822,15 @@
       "entryId": "facebook-page-1314805048387857-122118057489505627",
       "kind": "poem",
       "facebookPublishedAt": "2026-11-09T05:20:07+0000"
+    },
+    "1314805048387857_122118444465505627": {
+      "hash": "5f95540dcc964de15b3a3bbfda511e323f1b47879558c4dbf8e8a65c128b8b9b",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122118444465505627",
+      "entryId": "facebook-page-1314805048387857-122118444465505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-11-10T09:47:13+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-11-10T02:13:28.041Z"
+  "lastSuccessfulCheck": "2026-11-10T09:59:40.234Z"
 }
