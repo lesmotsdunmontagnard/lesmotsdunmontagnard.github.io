@@ -856,11 +856,11 @@
       "facebookPublishedAt": "2026-11-12T04:32:00+0000"
     },
     "1314805048387857_122119151049505627": {
-      "hash": "1d1f8612d6f1adfa8c126f5ccf6bfce9358d72b30864a617fc10dca25bc85089",
-      "status": "imported",
+      "hash": "4ab33159e99fe1330e88589a756ace75c857cb374c05dd1613a8ba53f6557f49",
+      "status": "review",
+      "reason": "Edited existing post; preserve website text until reviewed",
       "source": "https://www.facebook.com/122095870971505627/posts/122119151049505627",
-      "entryId": "facebook-page-1314805048387857-122119151049505627",
-      "kind": "poem",
+      "text": "#poème\nOù va le temps ?\n\nOù va le temps \nquand les jours s’effacent \nsans laisser d’adresse ?\n\nOù va le temps \nquand personne \nne le regarde ?\n\nOù vont les matins \nqui nous ont vus enfants, \nles voix qui nous appelaient \navant que le silence \nn’apprenne nos prénoms ?\n\nQui recueille les secondes \ntombées des horloges, \nles printemps morts \ndans les jardins, \nles promesses abandonnées \nsur le bord des chemins ?\n\nLe temps ne marche pas, \nil nous traverse.\n\nLe temps ne passe pas. \nC'est nous qui passons.\n\nIl emporte les visages, \nles maisons de nos enfances, \nles chemins que nos pieds nus \nconnaissaient par cœur.\n\nLui demeure, \ninvisible, \nassis au chevet des siècles, \n\ntandis que nos visages changent \net que nos noms deviennent \ndes murmures dans la bouche \ndes vivants.\n\nIl laisse derrière lui \ndes photographies jaunies, \ndes chaises vides, \net quelques mots \nque nous aurions dû dire.\n\nHier, \nnous étions l'enfance, \nun genou blessé, \nune course dans la poussière, \nla voix de nos mères \nqui rappelait le soir.\n\nOn croit le retenir \ndans une vieille chanson, \ndans l’odeur du pain chaud, \ndans le parfum d’un jardin \naprès la pluie.\n\nAujourd'hui, \nnous cherchons \ndans les vieilles maisons \nla trace de nos pas, \n\ndans les yeux des absents \nun peu de notre propre visage.\n\nMais il glisse entre les doigts \ncomme l’eau d’une source \nqui ne revient jamais \nà sa montagne.\n\nEt demain ?\n\nDemain est cette terre inconnue \noù nous envoyons nos rêves \nsans savoir qui les accueillera.\n\nOù va le temps \ndes amours \nqui s'éteignent, \n\ndes pères \nqui vieillissent debout, \ndes mères \nqui cachent leurs rides \ndans la lumière du matin ?\n\nOù vont les morts \nlorsque nous cessons \nde prononcer leurs noms ?\n\nPeut-être habitent-ils \ndans le silence d'une chambre, \ndans un arbre qui continue de fleurir, \n\ndans un geste transmis \nsans que personne se souvienne \nde celui qui l'a inventé.\n\nOù va le temps ?\n\nPeut-être nulle part.\n\nPeut-être est-ce nous \nqui nous éloignons de lui, \nà mesure que la vie \nnous rapproche de l’absence.\n\nNous avons inventé les horloges \npour mesurer notre fuite, \nles calendriers \npour compter nos pertes, \n\net les anniversaires \npour donner un nom \nà ce qui nous rapproche de la fin.\n\nMais aucune aiguille \nne mesure la profondeur \nd'un souvenir.\n\nAucun chiffre \nne dit combien de vies \ntient dans un seul instant.\n\nEt pourtant, \nil reste quelque chose :\n\nUn rire dans la mémoire, \nune lumière au fond des yeux, \nun amour que les années \nn’ont pas réussi à vieillir.\n\nCar le temps emporte les heures, \nmais il ne sait pas toujours emporter \nce qui nous a fait vivre.\n\nAlors, \noù va le temps ?\n\nPeut-être va-t-il \nlà où vont les choses \nessentielles : \n\ndans la mémoire \nde ceux qui restent, \ndans les blessures \nqui nous enseignent, \n\ndans les mots \nque nous transmettons \nà ceux qui viendront \naprès nous.\n\nEt si le temps \nne nous appartenait pas ?\n\nSi nous n'étions \nque de passage \ndans son éternité, \ndes poussières conscientes \nd'avoir été lumière ?\n\nJe ne demande plus \ncombien de temps il me reste.\n\nJe voudrais seulement \nque le temps qui me reste \nne soit pas du temps perdu.\n\nQu'il porte encore \nun visage, \nun arbre, \nune parole, \nune main tendue \ndans la nuit.\n\nCar au bout du chemin, \nquand les horloges auront cessé \nde compter pour nous, \n\nil ne restera peut-être \nni nos dates, \nni nos victoires, \nni même nos noms.\n\nMais quelque part, \ndans la mémoire fragile\ndu monde, \nune trace \nde ce que nous avons aimé \ncontinuera de respirer.\n\nEt peut-être est-ce cela, \nla seule manière de ne pas disparaître.\n\nDjamel Metref \nTizi Ouzou le 12 Novembre 2026",
       "facebookPublishedAt": "2026-11-12T13:27:28+0000"
     },
     "1314805048387857_122119291425505627": {
@@ -910,7 +910,15 @@
       "entryId": "facebook-page-1314805048387857-122119967379505627",
       "kind": "poem",
       "facebookPublishedAt": "2026-11-15T06:03:53+0000"
+    },
+    "1314805048387857_122120227869505627": {
+      "hash": "0925c005733337f899d3b38576ebd8cf4554f66e894c801417141bcc0072ebcf",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122120227869505627",
+      "entryId": "facebook-page-1314805048387857-122120227869505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-11-16T02:13:03+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-11-15T22:55:37.706Z"
+  "lastSuccessfulCheck": "2026-11-16T02:48:51.540Z"
 }
