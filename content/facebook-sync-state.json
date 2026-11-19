@@ -928,13 +928,21 @@
       "facebookPublishedAt": "2026-11-17T12:35:09+0000"
     },
     "1314805048387857_122121011553505627": {
-      "hash": "419f4b7611057849f5bd39b3055323632a3b57d29f431fc27af28c873bdfbbb8",
-      "status": "imported",
+      "hash": "b4c6024396c375890776cbea79a78ee197951412c51eb62941f09714216a62b1",
+      "status": "review",
+      "reason": "Edited existing post; preserve website text until reviewed",
       "source": "https://www.facebook.com/122095870971505627/posts/122121011553505627",
-      "entryId": "facebook-page-1314805048387857-122121011553505627",
-      "kind": "poem",
+      "text": "#poène\nPoèmes brisés\n\nIls ne se brisent pas toujours \ndans le fracas des mots.\n\nParfois, \nils tombent d’une lèvre \nqui n’a plus la force de dire, \nd’une main qui tremble \nau-dessus du papier.\n\nIls se brisent \nquand l’amour devient silence, \nquand l’absence prend toute la place, \nquand les rêves vieillissent \navant ceux qui les portent.\n\nIls se brisent dans les guerres, \nsous les fenêtres éventrées, \ndans les maisons sans enfants, \nsur les routes où l’exil efface \njusqu’au nom des villages.\n\nIls se brisent aussi \ndans les yeux de ceux qui restent, \nlorsqu’ils cherchent un visage \nque la nuit ne rend plus.\n\nMais le plus étrange, \nc’est qu’un poème brisé \ncontinue parfois de parler.\n\nSes morceaux \ndeviennent \ndes oiseaux, \nses blessures, \ndes racines, \net son dernier vers \nune graine sous les ruines.\n\nCar les poèmes ne meurent pas \nde manquer de mots.\n\nIls meurent \nquand plus personne \nne veut entendre \nla douleur du monde.\n\nDjamel Metref \nAt Yenni le 18 Novembre 2026",
       "facebookPublishedAt": "2026-11-18T11:40:47+0000"
+    },
+    "1314805048387857_122121181107505627": {
+      "hash": "3d9807532e6b793d8ecfc80d766199995553041217a55472cc8f27b17e1cc2bc",
+      "status": "imported",
+      "source": "https://www.facebook.com/122095870971505627/posts/122121181107505627",
+      "entryId": "facebook-page-1314805048387857-122121181107505627",
+      "kind": "poem",
+      "facebookPublishedAt": "2026-11-18T23:45:51+0000"
     }
   },
-  "lastSuccessfulCheck": "2026-11-18T22:03:47.829Z"
+  "lastSuccessfulCheck": "2026-11-19T03:37:23.164Z"
 }
